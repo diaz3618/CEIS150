@@ -25,6 +25,7 @@ def add_stock(stock_list):
             option = input("Stock Added - Enter to add another stock or 0 to stop: ")
 
 # Remove stock and all daily data
+# TEST
 def delete_stock(stock_list):
       option = "0"
 
