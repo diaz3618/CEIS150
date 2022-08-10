@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 30 22:57:11 2021
 
-@author: D99003734
+@author: Daniel F Diaz Santiago
 """
 from datetime import datetime
 from stock_class import Stock, DailyData
