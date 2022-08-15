@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 30 22:57:11 2021
+Created on Sun Aug 14 2022
 
-@author: D99003734
+@author: D41147599
 """
 from datetime import datetime
 from stock_class import Stock, DailyData
